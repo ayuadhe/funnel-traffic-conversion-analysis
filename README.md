@@ -138,3 +138,9 @@ A UX audit on Tablet devices, focusing on layout, responsiveness, and navigation
 
 **4. Tablet UX Audit & Optimization** <br>
 &emsp;Conduct a comprehensive UX review for Tablet devices, addressing layout, responsiveness, and navigation friction. Align the Tablet experience more closely with Desktop and Mobile benchmarks.
+
+<br>
+
+## Project Report
+📄 PDF Report:
+[Funnel & Traffic Analysis for Conversion Optimization.pdf](Funnel%20%26%20Traffic%20Analysis%20for%20Conversion%20Optimization.pdf)
