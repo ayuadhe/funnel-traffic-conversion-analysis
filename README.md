@@ -1,7 +1,7 @@
-# Funnel & Traffic Performance Analysis for Conversion Optimization
+# Funnel & Traffic Analysis for Conversion Optimization
 
 <p align="center">
-  <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96f0dd28-ddd4-485b-88c4-dbeb9ff3a780" />
+  <img width="2777" height="1799" alt="Image" src="https://github.com/user-attachments/assets/806b0783-5cfa-49d8-96b6-12a13d4e8036" />
 </p>
 
 Between January and September 2025, the platform recorded 5,680 sessions, but only 782 resulted in conversions. This gap indicates bottlenecks within the customer journey that limit optimal growth in the conversion rate.
@@ -134,7 +134,7 @@ A UX audit on Tablet devices, focusing on layout, responsiveness, and navigation
 &emsp;Improve marketing efficiency by attracting higher-intent traffic. Refocus Social Media targeting and messaging to attract higher purchase-intent users while scaling Email and Direct campaigns due to their higher conversion efficiency.
 
 **3. Mobile Experience Optimization** <br>
-&emsp;Maximize conversion potential on Mobile, which drives the majority of traffic, by improving loading speed, responsiveness, navigation, and ensuring a frictionless checkout experience aligned with engagement and conversion behaviors.
+&emsp;Maximize conversion potential on Mobile, which drives the majority of traffic, by improving loading speed, simplifying navigation and product discovery, and ensuring a smooth checkout flow.  Clear CTAs, responsive design, and fast performance can reduce friction and convert high mobile traffic into more purchases.
 
 **4. Tablet UX Audit & Optimization** <br>
 &emsp;Conduct a comprehensive UX review for Tablet devices, addressing layout, responsiveness, and navigation friction. Align the Tablet experience more closely with Desktop and Mobile benchmarks.
