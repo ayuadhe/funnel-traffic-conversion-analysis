@@ -143,4 +143,4 @@ Optimize the Tablet UX by **addressing layout**, **responsiveness**, and **navig
 
 ## Project Report
 📄 PDF Report:
-[Funnel & Traffic Analysis for Conversion Optimization.pdf](funnel-traffic-conversion-analysis)
+[Funnel & Traffic Analysis for Conversion Optimization.pdf](funnel-traffic-conversion-analysis.pdf)
