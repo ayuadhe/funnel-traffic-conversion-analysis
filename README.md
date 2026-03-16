@@ -127,20 +127,20 @@ A UX audit on Tablet devices, focusing on layout, responsiveness, and navigation
 <h1 align="center">Strategic Recommendations</h1>
 <br>
 
-**1. Optimize Product Page → Add to Cart Conversion** <br>
-&emsp;Improve the transition from Product Page to Add to Cart by clearer CTAs and value propositions, enhancing product visuals, providing pricing transparency and social proof, and strengthening overall messaging. Use A/B testing to optimize key page elements that drive cart commitment and reduce drop-offs.
+### **1. Optimize Product Page → Add to Cart Conversion** <br>
+Improve the transition from Product Page to Add to Cart through **clearer CTAs**, **stronger value propositions**, improved **product visuals**, and **social proof** that builds purchase confidence. Apply **A/B testing** to optimize key page elements that drive cart commitment and reduce drop-offs.
 
-**2. Enhance Traffic Quality Strategy** <br>
-&emsp;Improve marketing efficiency by attracting higher-intent traffic. Refocus Social Media targeting and messaging to attract higher purchase-intent users while scaling Email and Direct campaigns due to their higher conversion efficiency.
+### **2. Enhance Traffic Quality Strategy** <br>
+Improve marketing effectiveness by attracting higher-intent traffic. **Refocus Social Media targeting and messaging** to attract higher purchase-intent users while **scaling Email** and **Direct campaigns** due to their higher conversion efficiency.
 
-**3. Mobile Experience Optimization** <br>
-&emsp;Maximize conversion potential on Mobile, which drives the majority of traffic, by improving loading speed, simplifying navigation and product discovery, and ensuring a smooth checkout flow.  Clear CTAs, responsive design, and fast performance can reduce friction and convert high mobile traffic into more purchases.
+### **3. Mobile Experience Optimization** <br>
+Maximize mobile conversion by **improving loading speed**, **simplifying navigation and product discovery**, and ensuring a **smooth checkout flow**. Clear CTAs and responsive design can reduce friction and convert high mobile traffic into more purchases.
 
-**4. Tablet UX Audit & Optimization** <br>
-&emsp;Conduct a comprehensive UX review for Tablet devices, addressing layout, responsiveness, and navigation friction. Align the Tablet experience more closely with Desktop and Mobile benchmarks.
+### **4. Tablet UX Audit & Optimization** <br>
+Optimize the Tablet UX by **addressing layout**, **responsiveness**, and **navigation friction**, while **aligning the experience with Desktop and Mobile benchmarks**.
 
 <br>
 
 ## Project Report
 📄 PDF Report:
-[Funnel & Traffic Analysis for Conversion Optimization.pdf](Funnel%20%26%20Traffic%20Analysis%20for%20Conversion%20Optimization.pdf)
+[Funnel & Traffic Analysis for Conversion Optimization.pdf](funnel-traffic-conversion-analysis)
