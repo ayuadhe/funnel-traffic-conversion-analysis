@@ -139,8 +139,3 @@ Maximize mobile conversion by **improving loading speed**, **simplifying navigat
 ### **4. Tablet UX Audit & Optimization** <br>
 Optimize the Tablet UX by **addressing layout**, **responsiveness**, and **navigation friction**, while **aligning the experience with Desktop and Mobile benchmarks**.
 
-<br>
-
-## Project Report
-📄 PDF Report:
-[Funnel & Traffic Analysis for Conversion Optimization.pdf](funnel-traffic-conversion-analysis.pdf)
