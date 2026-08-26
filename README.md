@@ -1,7 +1,7 @@
 # Funnel & Traffic Analysis for Conversion Optimization
 
 <p align="center">
-  <img width="2777" height="1799" alt="Image" src="https://github.com/user-attachments/assets/806b0783-5cfa-49d8-96b6-12a13d4e8036" />
+  <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0bd928c4-a997-4335-9cfe-5cb196154908" />
 </p>
 
 Between January and September 2025, the platform recorded 5,680 sessions, but only 782 resulted in conversions. This gap indicates bottlenecks within the customer journey that limit optimal growth in the conversion rate.
